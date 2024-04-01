@@ -1,0 +1,1 @@
+This directory contains files that I used to create the images.
